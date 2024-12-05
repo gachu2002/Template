@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
     "@eslint/js": "^9.16.0",
+    "babel-loader": "^9.2.1",
     "css-loader": "^7.1.2",
     "eslint": "^9.16.0",
     "globals": "^15.13.0",
